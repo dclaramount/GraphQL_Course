@@ -1,0 +1,29 @@
+{
+  "name": "graphql_course_udemy",
+  "version": "1.0.0",
+  "description": "This is the course from udemy",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dclaramount/GraphQL_Course.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "Udemy"
+  ],
+  "author": "Diego Claramount",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dclaramount/GraphQL_Course/issues"
+  },
+  "homepage": "https://github.com/dclaramount/GraphQL_Course#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.10.1",
+    "loadsh": "^0.0.4"
+  }
+}
